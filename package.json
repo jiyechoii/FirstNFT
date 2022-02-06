@@ -1,0 +1,22 @@
+{
+  "name": "mynft",
+  "version": "1.0.0",
+  "description": "My First NFT!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiyechoii/FirstNFT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiyechoii/FirstNFT/issues"
+  },
+  "homepage": "https://github.com/jiyechoii/FirstNFT#readme",
+  "devDependencies": {
+    "hardhat": "^0.0.7"
+  }
+}
