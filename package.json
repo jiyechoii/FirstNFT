@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jiyechoii/FirstNFT#readme",
   "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.4",
+    "ethers": "^5.5.4",
     "hardhat": "^0.0.7"
   },
   "dependencies": {
