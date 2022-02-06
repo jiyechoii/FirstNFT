@@ -18,5 +18,9 @@
   "homepage": "https://github.com/jiyechoii/FirstNFT#readme",
   "devDependencies": {
     "hardhat": "^0.0.7"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0-solc-0.7",
+    "dotenv": "^16.0.0"
   }
 }
